@@ -4,10 +4,10 @@ project:
 website:
   page-navigation: true
   title: "MATH 4720 (MSSC 5720)"
-  description: "Homepage for 'Statistical Methods' at Marquette University, Spring 2025."
+  description: "Homepage for 'Statistical Methods' at Marquette University, Fall 2026."
   site-url: "https://tinyurl.com/Stat-Meth"
 
-  repo-url: https://github.com/mmadoliat/statmeth-s25/
+  repo-url: https://github.com/mmadoliat/statmeth-f26/
   repo-actions: [edit, issue]
 
   open-graph: true
@@ -22,7 +22,7 @@ website:
     align: center
     tools:
       - icon: github
-        href: https://github.com/mmadoliat/statmeth-s25/
+        href: https://github.com/mmadoliat/statmeth-f26/
         text: "GitHub organization"
       - icon: code-square
         href: https://tinyurl.com/Stat-Meth
@@ -52,7 +52,7 @@ website:
 
   page-footer:
     right: "This page is built with [Quarto](https://quarto.org/)."
-    left: "&copy; Copyright 2025, Mehdi Maadooliat"
+    left: "&copy; Copyright 2026, Mehdi Maadooliat"
     background: "#FFCC00" # Arylide Yellow
     
 format:

@@ -1,3 +1,3 @@
-# statmeth-s25
+# statmeth-f26
 
-Course webpage for MATH 4720 - Spring 2025
+Course webpage for MATH 4720 - Fall 2026

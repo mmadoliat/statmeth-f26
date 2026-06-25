@@ -1,5 +1,5 @@
 ---
-title: "Statistical Methods - Spring 2025"
+title: "Statistical Methods - Fall 2026"
 execute: 
   freeze: false
 ---
@@ -14,13 +14,13 @@ library(googlesheets4)
 library(gt)
 library(tidyverse)
 gs4_deauth()
-d <- read_sheet("https://docs.google.com/spreadsheets/d/1_FBrQxZGL4vgLjAlAlXueWs1wp6HnYs-bu-nSkH6lQQ/edit?usp=sharing")
+d <- read_sheet("https://docs.google.com/spreadsheets/d/1-lIozp7Q3vE7aFsjklWQgtuCRnOmOc6Q222qTK5qjHI/edit?usp=sharing")
 ```
 
 ```{r}
 #| echo: false
 
-d[d$date < max(today()+21, as.Date("2025-02-04")),] |>
+d[d$date < max(today()+21, as.Date("2025-09-01")),] |>
   #filter(!is.na(session)) |>
   select(-dow, -session, -prepare) |>
   mutate(date = as.Date(date)) |>
