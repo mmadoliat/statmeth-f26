@@ -15,7 +15,7 @@
     "href": "course-syllabus.html",
     "title": "Syllabus - Statistical Methods - Fall 2026",
     "section": "",
-    "text": "Course Title: MATH 4720/MSSC 5720: Statistical Methods\nMeeting Time: TuTh 9:30am - 10:45am\nLocation: Cudahy Hall 145 (Microsoft Teams)\nWebsite: http://tinyurl.com/Stat-Meth",
+    "text": "Course Title: MATH 4720/MSSC 5720: Statistical Methods\nMeeting Time: TuTh 9:30am - 10:45am\nLocation: Cudahy Hall 145 (Microsoft Teams)\nWebsite: http://tinyurl.com/f26-4720",
     "crumbs": [
       "Course information",
       "Syllabus"
@@ -26,7 +26,7 @@
     "href": "course-syllabus.html#course-information",
     "title": "Syllabus - Statistical Methods - Fall 2026",
     "section": "",
-    "text": "Course Title: MATH 4720/MSSC 5720: Statistical Methods\nMeeting Time: TuTh 9:30am - 10:45am\nLocation: Cudahy Hall 145 (Microsoft Teams)\nWebsite: http://tinyurl.com/Stat-Meth",
+    "text": "Course Title: MATH 4720/MSSC 5720: Statistical Methods\nMeeting Time: TuTh 9:30am - 10:45am\nLocation: Cudahy Hall 145 (Microsoft Teams)\nWebsite: http://tinyurl.com/f26-4720",
     "crumbs": [
       "Course information",
       "Syllabus"
@@ -198,7 +198,7 @@
     "href": "course-overview.html#class-meetings",
     "title": "Course overview",
     "section": "Class meetings",
-    "text": "Class meetings\n\n\n\nMeeting\nLocation\nTime\n\n\n\n\nLecture\nCU 145\nTue & Thur 9:30 am - 10:45 am\n\n\nOffice Hours\nCU 351\nTu 1:45pm - 3:15pm & Th 10:45am - 12:15pm",
+    "text": "Class meetings\n\n\n\n\n\n\n\n\nMeeting\nLocation\nTime\n\n\n\n\nLecture\nCudahy Hall 145\nTue & Thur 9:30 am - 10:45 am\n\n\nOffice Hours\nCudahy Hall 351\nTu 1:45pm - 3:15pm & Th 10:45am - 12:15pm",
     "crumbs": [
       "Course information",
       "Overview"
@@ -209,7 +209,7 @@
     "href": "index.html",
     "title": "Statistical Methods - Fall 2026",
     "section": "",
-    "text": "This page contains an outline of the topics, content, and assignments for the semester. Note that this schedule will be updated as the semester progresses and the timeline of topics and assignments might be updated throughout the semester.\n\n\n\n\n\n\n\n\n\nWEEK\nDATE\nTOPIC\nMATERIALS\nDUE",
+    "text": "This page contains an outline of the topics, content, and assignments for the semester. Note that this schedule will be updated as the semester progresses and the timeline of topics and assignments might be updated throughout the semester.\n\n\n\n\n\n\n\n\n\nWEEK\nDATE\nTOPIC\nMATERIALS\nDUE\n\n\n\n\n1\nTue, Sep 1\nWhat is Statistics? [🎥 Lecture 1]\n💻Chapt 1-2\n\n\n\n\n\n\nThu, Sep 3\nBasics of Statistics [🎥 Lecture 2]\n💻Chapt 3\n\n\n\n\n\n\nFri, Sep 4\n📃[1st week Summary]\n\n\n📝 [HW 0][Learn R in R](https://swirlstats.com/)\n\n\n2\nTue, Sep 8\nLearn R [🎥 Lecture 3]\n📃Learn R in R\n\n\n\n\n\n\nThu, Sep 10\nBasics of Statistics cont.  Probability Basics [🎥 Lecture 4]\nChapt 3 cont.  💻Chapt 4A\n\n\n\n\n\n\nFri, Sep 11\n📃[2nd week Summary]\n\n\n📝 HW 1 at 11:50 pm [Solution]\n\n\n3\nTue, Sep 15\nConditional Probability & Bayes  Theorem [🎥 Lecture 5]\nChatp 4A cont.\n\n\n\n\n\n\nThu, Sep 17\nDiscrete Random Variables  (Binomial, Poisson) [🎥 Lecture 6]\nChapt 4A cont.  📃More on Binomial\n\n\n\n\n\n\nFri, Sep 18\n📃[3rd week Summary]\n\n\n📝 HW 2 at 11:50 pm [Solution]\n\n\n4\nTue, Sep 22\nContinous Random Variable  (Normal) [🎥 Lecture 7]\n💻Chapt 4B\n\n\n\n\n\n\nThu, Sep 24\nSampling distribution  Confidence Interval (CLT) [🎥 Lecture 8]\nChapt 4B cont.  💻Chapt 5A\n\n\n\n\n5\nFri, Sep 25\n📃[4th week Summary]\n\n\n📝 HW 3 at 11:50 pm [Solution]\n\n\n\n\nTue, Sep 29\nReview for Exam [🎥 Lecture 9] Exam Details\n\n\n\n\n\n\n\n\nThu, Oct 1\n\n\n📑 Exam 1 formula sheet\n\n\n\n\n6\nTue, Oct 6\nReturn Exam and Start  Hypothesis Testing [🎥 Lecture 11]\n💻Chapt 5B\n\n\n\n\n\n\nThu, Oct 8\nHypothesis Testing [🎥 Lecture 12]\n\n\n\n\n\n\n\n\nFri, Oct 9\n📃[5th and 6th week Summary]\n\n\n📝 HW 4 at 11:50 pm [Solution]\n\n\n7\nTue, Oct 13\np-value? Test for mean  with unknown σ [🎥 Lecture 13]\n💻Chapt 5C\n\n\n\n\n\n\nThu, Oct 15\nTest for mean, two independent  population [🎥 Lecture 14]\n💻Chapt 6A\n\n\n\n\n\n\nFri, Oct 16\n📃[7th week Summary]\n\n\n📝 HW 5 at 11:50 pm [Solution]\n\n\n8\nTue, Oct 20\nTest for mean, two dependent population  Power Analysis [🎥 Lecture 15]\n💻Chapt 6B\n\n\n\n\n\n\nThu, Oct 22\n🍁 Fall Break 📃[8th week Summary]\n\n\n\n\n\n\n9\nTue, Oct 27\nNonparametric Tests [🎥 Lecture 16]\n💻Chapt 6C\n\n\n\n\n\n\nThu, Oct 29\nTest for Variance [🎥 Lecture 17]\n💻Chatp 7\n\n\n\n\n\n\nFri, Oct 30\n📃[9th week Summary]\n\n\n📝 HW 6 at 11:50 pm [Solution]\n\n\n10\nTue, Nov 3\nANOVA [🎥 Lecture 18]\n💻Chapt 8A\n\n\n\n\n\n\nThu, Nov 5\nANOVA cont. [🎥 Lecture 19]\n💻Chapt 8B\n\n\n\n\n\n\nFri, Nov 6\n📃[10th week Summary]\n\n\n📝 HW 7 at 11:50 pm [Solution]  📊Datasets\n\n\n11\nTue, Nov 10\nPresentation by Dr. Yu  Review for Exam [🎥 Lecture 20] Exam Details\n💻APST-ADP\n\n\n\n\n\n\nThu, Nov 12\n\n\n📑 Exam 2 formula sheet\n\n\n\n\n12\nTue, Nov 17\nReturn Exam and finish  ANOVA [🎥 Lecture 22]\n💻Chapt 8B\n\n\n\n\n\n\nThu, Nov 19\nMultiple Testing [🎥 Lecture 23]\n💻Chapt 9\n\n\n\n\n\n\nFri, Nov 20\n📃[11th and 12th week Summary]\n\n\n📝 HW 8 at 11:50 pm [Solution]  📊Datasets\n\n\n13\nTue, Nov 24\nTest for Proportion [🎥 Lecture 24]\n💻Chapt 10A\n\n\n\n\n\n\nThu, Nov 26\n🦃🍂🥧🙏 Thanksgiving Break  📃[13th week Summary] MATH 4720 Course Evaluation\n\n\n\n\n\n\n14\nTue, Dec 1\nGoodness of Fit Test [🎥 Lecture 25]\n💻Chapt 10B\n\n\n\n\n\n\nThu, Dec 3\nRegression Analysis [🎥 Lecture 26]\n💻Chapt 11\n\n\n\n\n\n\nFri, Dec 4\n📃[14th week Summary]\n\n\n📝 HW 9 at 11:50 pm [Solution]  📊Datasets\n\n\n15\nTue, Dec 8\nRegression Analysis cont. [🎥 Lecture 27]\nChapt 11 cont.\n\n\n\n\n\n\nThu, Dec 10\nReview for Final [🎥 Lecture 28]\n📃Review\n📝 HW 10 at 11:00 am [Solution]  📊Datasets\n\n\n16\nWed, Dec 16\n8:00 am - 10:00 am  Exam Details\n📑 Final Exam",
     "crumbs": [
       "Course information",
       "Schedule"
