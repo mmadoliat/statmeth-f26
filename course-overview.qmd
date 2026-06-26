@@ -8,9 +8,9 @@ You can find the course syllabus [here](/course-syllabus.html) and the course sc
 
 ## Class meetings
 
-| Meeting      | Location | Time                                      |
-|--------------|----------|-------------------------------------------|
-| Lecture      | CU 145   | Tue & Thur 9:30 am - 10:45 am             |
-| Office Hours | CU 351   | Tu 1:45pm - 3:15pm & Th 10:45am - 12:15pm |
+| Meeting      | Location        | Time                                      |
+|--------------|-----------------|-------------------------------------------|
+| Lecture      | Cudahy Hall 145 | Tue & Thur 9:30 am - 10:45 am             |
+| Office Hours | Cudahy Hall 351 | Tu 1:45pm - 3:15pm & Th 10:45am - 12:15pm |
 
 ![](images/twitter-card.png)

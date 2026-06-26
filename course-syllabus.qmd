@@ -10,7 +10,7 @@ format:
 **Course Title:** MATH 4720/MSSC 5720: Statistical Methods\
 **Meeting Time:** TuTh 9:30am - 10:45am\
 **Location:** Cudahy Hall 145 (Microsoft Teams)\
-**Website:** <http://tinyurl.com/Stat-Meth>
+**Website:** <http://tinyurl.com/f26-4720>
 
 ## Instructor Details
 
