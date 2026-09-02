@@ -9,7 +9,7 @@ format:
 
 **Course Title:** MATH 4720/MSSC 5720: Statistical Methods\
 **Meeting Time:** TuTh 9:30am - 10:45am\
-**Location:** Cudahy Hall 118 (Microsoft Teams)\
+**Location:** Cudahy Hall 118 ([Microsoft Teams](https://teams.microsoft.com/meet/255935255407425?p=uVJ6qXK2zGbR51kMX9) - if needed)\
 **Website:** <http://tinyurl.com/f26-4720>
 
 ## Instructor Details
@@ -26,8 +26,36 @@ Probability, discrete and continuous distributions. Treatment of data, point and
 
 - Introduction to probability and probability distributions
 - Sampling and descriptive measures
-- Inference and hypothesis testing
+- Point and interval estimation
+- Hypothesis testing
 - Linear regression and analysis of variance
+- Nonparametric methods
+
+## Learning Outcomes
+
+By the end of the course, students will be able to:
+
+- Apply fundamental concepts of probability to statistical problems.
+- Identify and use appropriate discrete and continuous probability distributions.
+- Summarize and interpret data using appropriate descriptive statistics and graphical methods.
+- Describe sampling distributions and explain their role in statistical inference.
+- Construct and interpret point estimates and confidence intervals for population parameters.
+- Formulate and conduct hypothesis tests and interpret the results in context.
+- Select and apply appropriate statistical methods for large- and small-sample problems.
+- Fit and interpret simple linear regression models and assess relationships between quantitative variables.
+- Apply analysis of variance to compare multiple population means.
+- Apply appropriate nonparametric methods when standard parametric assumptions are not appropriate.
+- Interpret statistical results in the context of real-world applications and communicate conclusions clearly.
+
+### Additional Learning Outcomes for MSSC 5720
+
+In addition to the learning outcomes above, students enrolled in MSSC 5720 will be expected to:
+
+- Demonstrate a deeper understanding of the theoretical foundations and assumptions underlying statistical methods.
+- Analyze more complex statistical problems requiring additional mathematical and statistical reasoning.
+- Compare alternative statistical procedures and justify the choice of an appropriate method.
+- Critically evaluate statistical results, assumptions, and limitations.
+- Communicate statistical methodology and conclusions at a level appropriate for graduate study.
 
 ## Prerequisites
 
@@ -46,7 +74,11 @@ Probability, discrete and continuous distributions. Treatment of data, point and
 - **Final Exam**: 30%
 - **Best Exam**: 5%
 
-For students in MSSC 5720, there will be extra questions in Homework and/or Exam
+Students enrolled in MSSC 5720 will complete additional or more advanced
+problems on selected homework assignments and examinations. These problems
+will require greater theoretical depth, mathematical reasoning, and
+interpretation than those assigned to MATH 4720 students and are designed
+to assess the graduate-level learning outcomes described above.
 
 You will **NOT** be allowed any extra credit projects to compensate for a poor average. The final grade is based on the following scale:
 
